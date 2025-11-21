@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fipsit/static/css/main.03b2c943.css",
-    "main.js": "/fipsit/static/js/main.0d33e6cc.js",
+    "main.js": "/fipsit/static/js/main.4c31b501.js",
     "index.html": "/fipsit/index.html",
     "main.03b2c943.css.map": "/fipsit/static/css/main.03b2c943.css.map",
-    "main.0d33e6cc.js.map": "/fipsit/static/js/main.0d33e6cc.js.map"
+    "main.4c31b501.js.map": "/fipsit/static/js/main.4c31b501.js.map"
   },
   "entrypoints": [
     "static/css/main.03b2c943.css",
-    "static/js/main.0d33e6cc.js"
+    "static/js/main.4c31b501.js"
   ]
 }
